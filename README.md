@@ -1,6 +1,15 @@
 # Neurosymbolic VQA Program Generator
 
-This project, developed for the System 2 AI course, implements a comprehensive Neurosymbolic framework for Visual Question Answering (VQA). It focuses on translating natural language questions from the CLEVR dataset into executable symbolic programs. We explore and compare three distinct learning paradigms to train this neural-to-symbolic translator: Supervised Learning (with LSTM and Transformer models), Reinforcement Learning (using REINFORCE), and In-Context Learning (with a pre-trained LLM).
+This project was developed as an exploration for the graduate-level **System 2 AI** course, which focuses on building models that move beyond the fast, intuitive pattern-matching of "System 1" (typical in many deep learning models) toward the slower, deliberate, multi-step reasoning characteristic of "System 2" cognition.
+
+As such, this project implements a comprehensive Neurosymbolic framework based on the paper **"Inferring and Executing Programs for Visual Reasoning" (Johnson et al., 2017)**. The core idea is to translate ambiguous natural language questions (from the CLEVR dataset) into explicit, executable symbolic programs. This approach bridges the gap between neural perception and symbolic reasoning.
+
+To build this neural-to-symbolic translator, we explore and compare three distinct learning paradigms:
+1.  **Supervised Learning** (with both LSTM and Transformer models)
+2.  **Reinforcement Learning** (using REINFORCE to fine-tune)
+3.  **In-Context Learning** (using a pre-trained LLM)
+
+**Note on Provenance:** This is an academic project. While the core model implementations, training/evaluation scripts, and overall repository structure are original, the foundational code for data preprocessing, program definitions, and the symbolic `ClevrExecutor` was adopted from the official paper repository: [facebookresearch/clevr-iep](https://github.com/facebookresearch/clevr-iep). This foundational code was then significantly refactored, modernized, and adapted to fit this project's modular design and personal requirements.
 
 ## Features
 
